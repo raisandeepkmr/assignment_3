@@ -1,3 +1,4 @@
 # assignment_3
 
-Video Link: https://drive.google.com/drive/folders/1-9phjWqP9MF3VS6r5SbdTJ9_w4mzgim_
+Detail description doc link: https://docs.google.com/document/d/1K0D2FcdYNpz_dWPdDZwLlTQ6jxfgBXQD/edit
+Video Link: https://drive.google.com/drive/folders/1gmaYQaRFeBNc2VR5ZtfeFK7UKsRjMBeY
